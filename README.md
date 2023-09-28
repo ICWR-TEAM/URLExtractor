@@ -1,5 +1,7 @@
 # URLExtractor
-URL Extractor is a tool for hacking, analyst, etc. needs. This URL extractor was created by one of the IN CRUST WE RUSH team members for user needs.
+
+<center>URL Extractor is a tool for hacking, analyst, etc. needs. This URL extractor was created by one of the IN CRUST WE RUSH team members for user needs.</center>
+
 <img src="carbon (1).png" alt="">
 
 # Requirements
