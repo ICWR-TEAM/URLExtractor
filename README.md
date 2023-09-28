@@ -6,5 +6,5 @@ URL Extractor is a tool for hacking, analyst, etc. needs. This URL extractor was
 ```
 1. Python language
 2. BeautifulSoup Libarary (Python)
-3. Requests Library
+3. Requests Library (Python)
 ```
